@@ -5,7 +5,7 @@ date: Apr28
 multianimalproject: false
 
     # Project path (change when moving around)
-project_path: J:\EyeData\PupilDetector-cortex_lab-2021-04-28
+project_path: C:\Users\maria\Documents\GitHub\PupilDetection_DLC\DLC data\PupilDetector-cortex_lab-2021-04-28
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
